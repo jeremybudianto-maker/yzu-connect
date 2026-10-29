@@ -1,0 +1,18 @@
+YZU Connect — downloadable browser app
+
+1. Extract this ZIP.
+2. Open the YZU Connect folder.
+3. Double-click index.html to launch the app in your browser.
+4. Use “Demo paths” to explore course registration, housing repair, and search.
+
+No installation, build tools, or account is required for this local copy.
+The included HTML, CSS, and JavaScript are editable application source.
+
+This is the September 17, 2026 concept demo. Dates, people, policies, seat
+counts, and academic records are fictional. Requests and registration are
+simulated; nothing is sent to YZU. Changes reset when the page reloads.
+Student and Staff are demonstration views, not authenticated user roles.
+
+Core functionality runs locally. The app may request the Inter font from
+Google Fonts when online; a system font is used if it is unavailable.
+This is a browser app, not a native macOS, Windows, iOS, or Android installer.

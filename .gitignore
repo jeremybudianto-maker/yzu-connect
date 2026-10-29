@@ -1,0 +1,38 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local service and deployment metadata
+.openai/
+.vercel/
+.netlify/
+
+# Credentials and local environment files
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+service-account*.json
+
+# Dependencies and temporary development output
+node_modules/
+coverage/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+.cache/
+tmp/
+
+# The reviewed application uses editable HTML/CSS/JS at repository root.
+# Do not ignore those source files or docs/images/ screenshots.
